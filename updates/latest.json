@@ -1,9 +1,9 @@
 {
   "packageName": "cn.youmiaoke.lessonledger",
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "path": "/updates/youmiao-v1.0.4.apk",
-  "size": 3629053,
-  "sha256": "f2016ac7683acfc7280e80c39e19cf785763dd16c4e8422b9600de6c027199fb",
-  "releasedAt": "2026-10-15T17:42:30.056Z"
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "path": "/updates/youmiao-v1.0.5.apk",
+  "size": 3630057,
+  "sha256": "4f110050b23153ca92cfaf9f9667b96abb3f4cfe3ab1f5c32e76f9b611445dfd",
+  "releasedAt": "2026-10-20T08:46:48.117Z"
 }
